@@ -8,10 +8,10 @@ app.config.from_object(Config)
 
 CORS(app, resources={r'/*': {'origins': '*'}})
 
-mongodb_client = PyMongo(app, uri="mongodb+srv://progAvan:progAvan@cluster0.k87m7.mongodb.net/livros")
+mongodb_client = PyMongo(app, uri="yourFirstStringHere")
 db = mongodb_client.db
 
-mongodb_client2 = PyMongo(app, uri="mongodb+srv://progAvan:progAvan@cluster0.k87m7.mongodb.net/users")
+mongodb_client2 = PyMongo(app, uri="yourSecondStringHere")
 db_users = mongodb_client2.db
 
 from app import routes
