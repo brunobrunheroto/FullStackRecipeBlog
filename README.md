@@ -15,7 +15,7 @@
 
 - Download the project.
 - Install python in your computer if you do not have it.
-- Change the mongoDB connection string in the file `crud_backend\app\__init__.py` to your own connection string.
+- Change the mongoDB connection strings in the file `crud_backend\app\__init__.py` to your own connection strings.
 - Go to the terminal and execute the following commands on it's directory:
   - python -m venv venv
   - pip install -r requirements.txt
