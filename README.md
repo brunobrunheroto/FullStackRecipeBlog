@@ -9,7 +9,7 @@
 - Backend: Flask and python.
 - Frontend: Vue.JS, HTML, CSS and JavaScript.
 - Database: MongoDB.
-- <p>The project was done using Visual Studio Code.</p>
+<p>The project was done using Visual Studio Code.</p>
 
 ## <ins>How to use </ins>
 
