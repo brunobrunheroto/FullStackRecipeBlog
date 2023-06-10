@@ -2,7 +2,7 @@
 
 ## <ins>Goals</ins>
 
-<p>This project was done with academic purposes. It aims to build a web aplication capable of executing CRUD commands on a web aplication.</p>
+<p>This project was done with academic purposes. It aims to build a web aplication capable of executing CRUD commands.</p>
 
 ## <ins>Technologies</ins>
 
