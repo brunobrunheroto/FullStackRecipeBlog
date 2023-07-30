@@ -1,9 +1,5 @@
 # Full Stack Recipe Blog
 
-## <ins>Goals</ins>
-
-<p>This project was done with academic purposes. It aims to build a web aplication capable of executing CRUD commands.</p>
-
 ## <ins>Technologies</ins>
 
 - Backend: Flask and python.
